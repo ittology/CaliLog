@@ -165,7 +165,7 @@ Follow the instructions in the [Building an APK](#building-an-apk) section above
    - Package name: `com.calilog.app`
    - SHA-1 fingerprint: your SHA-1 from Step 3
    - Click **Create**
-8. Copy the **Client ID** from the Web Client (ends in `.apps.googleusercontent.com`)
+8. Copy the **Client ID** from the **Web Client** (ends in `.apps.googleusercontent.com`)
 
 ### Step 5 — Connect in the app
 
