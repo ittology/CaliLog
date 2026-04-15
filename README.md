@@ -103,7 +103,7 @@ The assistant supports Google Gemini and Groq. Both providers are free to use. G
 2. Sign in with your Google account
 3. Click **Create API key** and copy it
 
-Recommended model: `gemini-2.5-flash-preview` — see [all available Gemini models](https://ai.google.dev/gemini-api/docs/models)
+Recommended model: `gemini-3-flash-preview` — see [all available Gemini models](https://ai.google.dev/gemini-api/docs/models)
 
 ### Getting a Groq API key
 
@@ -111,7 +111,7 @@ Recommended model: `gemini-2.5-flash-preview` — see [all available Gemini mode
 2. Sign in or create a free account
 3. Click **Create API Key** and copy it
 
-Recommended model: `openai/gpt-oss-120b` — see [all available Groq models](https://console.groq.com/docs/models)
+Recommended model: `llama-3.3-70b-versatile` — see [all available Groq models](https://console.groq.com/docs/models)
 
 ### Configuring the assistant
 
@@ -183,4 +183,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Created by [ITTOLOGY](https://www.youtube.com/@ITTOLOGY)
+Created by [ITTOLOGY](https://www.youtube.com/@ittology)
